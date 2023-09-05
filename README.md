@@ -1,0 +1,2 @@
+# freqtrade-stragies
+freqtrade-stragies
